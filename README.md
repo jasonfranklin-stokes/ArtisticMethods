@@ -1,0 +1,159 @@
+# ArtisticMethods for Human reference, LLM's know these terms ad Artistic Methods. 
+- Sketching
+- Painting
+- Drawing
+- Sculpting
+- Photography
+- Weaving
+- Printmaking
+- Collaging
+- Digital painting
+- Animation
+- Ceramics
+- Blending
+- Layering
+- Embroidery
+- Etching
+- Lithography
+- Woodcutting
+- Screen-printing
+- Ink wash
+- 3D modeling
+- Stenciling
+- Welding
+- Carving
+- Gouache
+- Watercolor
+- Acrylic
+- Oil painting
+- Origami
+- Fresco
+- Mosaic
+- Relief
+- Casting
+- Textile arts
+- Batik
+- Quilling
+- Airbrushing
+- Beadwork
+- Drybrush
+- Vectoring
+- Bookbinding
+- Motion graphics
+- Raku
+- Underpainting
+- Hatching
+- Cross-hatching
+- Papier-mâché
+- Gilding
+- Macramé
+- Decoupage
+- Stippling
+- Digital sculpting
+- Bas-relief
+- High-relief
+- Tapestry
+- Felting
+- Marquetry
+- Impasto
+- Sgraffito
+- Cyanotype
+- Daguerreotype
+- Linocut
+- Throwing
+- Assemblage
+- Pointillism
+- Monotype
+- Monoprint
+- Glazing
+- Aquatint
+- Mezzotint
+- Wash
+- Storyboarding
+- Grisaille
+- Scumbling
+- HDR
+- Panorama stitching
+- Photo manipulation
+- Pixel art
+- Double exposure
+- Darkroom techniques
+- Dye-sublimation
+- Papercutting
+- Film development
+- Intaglio
+- Reduction firing
+- Oxidation firing
+- Salt glaze
+- Terra sigillata
+- Hand-building
+- Coiling
+- Slab construction
+- Pinch pot
+- Resin art
+- Pyrography
+- Enameling
+- Glassblowing
+- Pottery
+- Mural painting
+- Photogram
+- Tintype
+- Collotype
+- Photocollage
+- Gelatin silver print
+- Platinum print
+- Animation cell painting
+- Computer graphics
+- Charcoal drawing
+- Pastel drawing
+- Chalk art
+- Graffiti
+- Calligraphy
+- Typography
+- Metalwork
+- Chainmail
+- Blacksmithing
+- Silversmithing
+- Gold leafing
+- Digital illustration
+- Concept art
+- Matte painting
+- Story art
+- Wire sculpting
+- Stone carving
+- Ivory carving
+- Bone carving
+- Engraving
+- Diorama making
+- Puppetry
+- Mask making
+- Jewelry design
+- Leatherworking
+- Tape art
+- Sand art
+- Ice sculpting
+- Snow sculpting
+- Land art
+- Performance art
+- Sound art
+- Video art
+- Installation art
+- Body painting
+- Tattooing
+- Piercing
+- Metal casting
+- Bronze casting
+- Plaster casting
+- Foam sculpting
+- Light painting
+- String art
+- Inlay work
+- Millefiori
+- Mokume-gane
+- Flameworking
+- Fused glass
+- Stained glass
+- Tole painting
+- Decalcomania
+- Action painting
+- Digital art
